@@ -1,6 +1,6 @@
 ---
 title: "Ce que j'ai appris de 'Atomic Habits' de James Clear"
-pubDate: 2025-10-28
+date: 2025-10-28
 description: "Pourquoi ce livre est plus qu'un simple guide sur les habitudes, et comment je l'applique dans ma vie d'étudiant en technologie."
 author: 'Idris Chahraoui'
 tags: ["livre", "review", "développement personnel", "habitudes"]
