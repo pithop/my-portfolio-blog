@@ -1,6 +1,6 @@
 ---
 title: 'Mon Setup Étudiant Essentiel pour 2025'
-pubDate: 2025-10-30
+date: 2025-10-30
 description: "Découvrez le matériel informatique et les accessoires indispensables pour un étudiant productif en 2025."
 author: 'Idris Chahraoui'
 tags: ["setup", "étudiant", "productivité", "tech"]
