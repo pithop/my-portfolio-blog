@@ -1,6 +1,6 @@
 ---
 title: 'Top 5 des Applications de Productivité pour Étudiants'
-pubDate: 2025-10-29
+date: 2025-10-29
 description: "Comment mieux s'organiser ? Voici les 5 applications qui m'aident vraiment à gérer mes cours, mes projets et ma vie personnelle."
 author: 'Idris Chahraoui'
 tags: ["apps", "productivité", "organisation", "étudiant"]
